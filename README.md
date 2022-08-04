@@ -1,16 +1,12 @@
-### Hi there 👋
+<p align="center">
+	<img src="animation.gif?raw=true" width="50%" height="50%"/>
+</p>
 
-<!--
-**crazywolf132/crazywolf132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| `MY WORK` |
+| --------- |
+| <img src="arrow.png" width="20px" height="10px" /><a href="https://github.com/crazywolf132/jungla">`Jungla`</a><br /><center><i>Schema-less GQL Alternative</i></center> |
+| <img src="arrow.png" width="20px" height="10px" /><a href="https://github.com/https://github.com/mani-language/Mani">`Máni`</a><br /><center><i>Super simple programming language</i></center> |
+| <img src="arrow.png" width="20px" height="10px" /><a href="https://github.com/https://github.com/crazywolf132/Asher.Ai">`Asher.Ai`</a><br /><center><i>Machine Learning Chatbot</i></center> |
+| <img src="arrow.png" width="20px" height="10px" /><a href="https://github.com/https://github.com/https://github.com/foxycorps/nanoevent">`Nano Event`</a><br /><center><i>Super small event emitter</i></center> |
