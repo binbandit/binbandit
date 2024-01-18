@@ -4,6 +4,8 @@
 
 <hr />
 
+![Profile Views](https://komarev.com/ghpvc/?username=crazywolf132&label=PROFILE+VIEWS)
+
 | `MY WORK` |
 | --------- |
 | <img src="arrow.png" width="20px" height="10px" /><a href="https://github.com/crazywolf132/jungla">`Jungla`</a><br /><center><i>Schema-less GQL Alternative</i></center> |
