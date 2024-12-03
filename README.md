@@ -16,5 +16,5 @@
 | <img src="arrow.png" width="20px" height="10px" /><a href="https://github.com/crazywolf132/fates">`Fates`</a><br /><center><i>Tame Your TypeScript Destiny!</i></center> |
 | <img src="arrow.png" width="20px" height="10px" /><a href="https://github.com/crazywolf132/fstr">`FSTR`</a><br /><center><i>Rust-like `println!` for Go with Superpowers</i></center> |
 | <img src="arrow.png" width="20px" height="10px" /><a href="https://github.com/crazywolf132/squish">`SQUISH`</a><br /><center><i>Zero-config TypeScript bundler</i></center> |
-| <img src="arrow.png" width="20px" height="10px" /><a href="https://github.com/crazywolf132/securefetch">`Secure Fetch`</a><br /><center><i>Secure AWS / Secret fetcher for Golang</i></center> |
+| <img src="arrow.png" width="20px" height="10px" /><a href="https://github.com/crazywolf132/secretfetch">`Secret Fetch`</a><br /><center><i>Secure AWS / Secret fetcher for Golang</i></center> |
 | <img src="arrow.png" width="20px" height="10px" /><a href="https://github.com/crazywolf132/goshed">`Go Shed`</a><br /><center><i>Go playground manager</i></center> |
