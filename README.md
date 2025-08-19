@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="animation.gif?raw=true" width="50%" height="50%"/>
+	<img src="binbandit_landing.png" width="50%" height="50%"/>
 </p>
 
 <hr />
